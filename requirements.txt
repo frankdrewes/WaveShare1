@@ -1,0 +1,7 @@
+Pillow>=10.0.0
+# Required for the Waveshare e-paper driver package:
+# clone the official Waveshare library and install it from its python directory
+# Example:
+# git clone https://github.com/waveshareteam/e-Paper.git
+# cd e-Paper/RaspberryPi_JetsonNano/python
+# sudo python3 setup.py install
