@@ -9,7 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 #   git clone https://github.com/waveshareteam/e-Paper.git
 #   cd e-Paper/RaspberryPi_JetsonNano/python
 #   sudo python3 setup.py install
-from waveshare_epd import epd2in3
+from waveshare_epd import epd2in13
 
 
 DISPLAY_WIDTH = 212
